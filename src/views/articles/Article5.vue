@@ -10,6 +10,11 @@
         </div>
         <br>
         <br>
+        <div class="flex items-center  justify-center w-full ">
+          <div class="text-center w-1/2" >
+            <img src="https://www.numeryx.fr/sites/default/files/2022-05/devops-1.jpg" alt="">
+          </div>
+        </div>
         <br>
         <div class="font-medium text-left md:text-xl text-base ">
           En somme, en tant que Developpeur je m’étais jamais vraiment intéressé à ce domaine pourtant indispensable dans le Web. 

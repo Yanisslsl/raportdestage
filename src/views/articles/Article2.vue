@@ -10,6 +10,11 @@
         </div>
         <br>
         <br>
+        <div class="flex items-center  justify-center w-full ">
+          <div class="text-center w-1/2" >
+            <img src="https://fiches-pratiques.chefdentreprise.com/Assets/Img/FICHEPRATIQUE/2020/11/354321/Les-raisons-utiliser-methodes-Agile-entreprise-F.jpg" alt="">
+          </div>
+        </div>
         <br>
         <div class="font-medium text-left md:text-xl text-base ">
           Au sein de notre entreprise on dispose ainsi de différents outils qui nous aident à mettre en place ces méthodes agiles. 
