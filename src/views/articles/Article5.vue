@@ -13,7 +13,7 @@
         <br>
         <div class="font-medium text-left md:text-xl text-base ">
           En somme, en tant que Developpeur je m’étais jamais vraiment intéressé à ce domaine pourtant indispensable dans le Web. 
-          J’ai donc étudié ce domaine dans le cas de mon stage car d'une part dans notre équipe tout le monde possède des compétences sur ce sujet, et d’autre part parce que dans le cas de l’un de nos projets j’ai utilisé un des outils fortement utilisé dans ce domaine: Kubernetes. 
+          J’ai donc étudié ce domaine dans le cas de mon stage car d'une part dans notre équipe tout le monde possède des compétences sur ce sujet, et d’autre part parce que dans le cas de l’un de nos projets j’ai utilisé un des outils fortement utilisé dans ce domaine: <a href="https://kubernetes.io/fr/">Kubernetes.</a> 
         </div>
         <br>
         <br>
